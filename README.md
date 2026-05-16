@@ -37,7 +37,7 @@ I am passionate about exploring eco-friendly scientific approaches and building 
 ---
 ## 🤝 Connect With Me
 - GitHub: https://github.com/nooremaan9
-- LinkedIn:
+- LinkedIn: https://www.linkedin.com/in/noor-emaan-6aa413407?trk=contact-info
 ---
 ## 📜 Note
 This profile shares educational and publicly available scientific content only. Unpublished research data is not disclosed.
