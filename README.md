@@ -1,16 +1,43 @@
-## Hi there 👋
-
-<!--
-**nooremaan9/nooremaan9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Noor Emaan 👋
+## 🌱 About Me
+I am an MS Botany researcher with academic interests in:
+- Green Nanotechnology
+- Sustainable Agriculture
+- Nanobiotechnology
+- Scientific Research & Academic Writing
+I am passionate about exploring eco-friendly scientific approaches and building a strong academic research portfolio.
+---
+## 🔬 Research Interests
+- Green synthesis of nanoparticles
+- Plant-microbe interactions
+- Sustainable disease management
+- Agricultural nanotechnology
+- Eco-friendly scientific innovations
+---
+## 📚 Current Focus
+- Learning advanced research methodologies
+- Building scientific documentation skills
+- Exploring green nanotechnology applications
+- Preparing for international PhD opportunities
+---
+## 🛠 Skills
+- Literature Review
+- Scientific Writing
+- Research Documentation
+- Academic Presentation
+- Microsoft Word & PowerPoint
+- Research Methodology
+- Scientific Communication
+---
+## 📈 Goals
+- Build a professional academic portfolio
+- Contribute educational scientific resources
+- Learn bioinformatics and computational tools
+- Connect with global researchers
+---
+## 🤝 Connect With Me
+- GitHub:
+- LinkedIn:
+---
+## 📜 Note
+This profile shares educational and publicly available scientific content only. Unpublished research data is not disclosed.
